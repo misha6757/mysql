@@ -1,0 +1,14 @@
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.csprojResolveAssemblyReference.cache
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.Properties.Resources.resources
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.csproj.GenerateResource.Cache
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.csproj.CoreCompileInputs.cache
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\bin\Debug\PROGA.exe.config
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\bin\Debug\PROGA.exe
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\bin\Debug\PROGA.pdb
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.exe
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.pdb
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.Form2.resources
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.Form3.resources
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.Form4.resources
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.Form5.resources
+C:\Users\studkab43\Desktop\PROGA\PROGA\PROGA\obj\Debug\PROGA.Form1.resources
